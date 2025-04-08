@@ -26,6 +26,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud)
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)

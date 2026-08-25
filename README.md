@@ -1,8 +1,10 @@
-# Hey, I'm Todd Bernson
+# Todd Bernson
 
-**Chief AI & Technical Officer** at [BSC Analytics](https://bscanalytics.com) | **AWS Ambassador** | USMC Veteran
+**Chief AI & Technical Officer** at [BSC Analytics](https://bscanalytics.com) | **AWS Ambassador** | United States Marine Corps Veteran
 
-I build production AI systems and cloud infrastructure that solve real problems. Most of my work lives at the intersection of agentic AI, Kubernetes, and Terraform -- and I ship it all as open source. 52+ public repos and counting.
+I lead governed enterprise AI and cloud platforms for regulated environments, and I publish selected reference architectures that demonstrate how I think about reliability, security, operations, and accountable execution.
+
+I set technology direction, build technical organizations, and stay close enough to architecture and implementation to challenge assumptions, evaluate risk, and defend consequential technology decisions.
 
 [![Website](https://img.shields.io/badge/bernson.info-000000?style=flat&logo=safari&logoColor=white)](https://bernson.info)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/todd-bernson)
@@ -11,9 +13,9 @@ I build production AI systems and cloud infrastructure that solve real problems.
 
 ### What I'm building
 
-I lead AI and engineering at BSC Analytics, where I architect enterprise intelligence platforms, run MLOps pipelines, and build the teams behind them. Before tech, I served in the United States Marine Corps.
+I lead AI and technology at BSC Analytics, where I set direction for enterprise intelligence platforms, MLOps pipelines, and governed production systems.
 
-**Current focus:** agentic AI systems, real-time inference, voice AI, and infrastructure-as-code at scale.
+Current focus: application-led agentic AI, governed AI execution, platform engineering, modernization, model operations, and resilient multi-cloud architecture.
 
 ---
 
@@ -21,16 +23,12 @@ I lead AI and engineering at BSC Analytics, where I architect enterprise intelli
 
 | Repo | What it does | Stack |
 |------|-------------|-------|
-| [agentic_ai](https://github.com/semperfitodd/agentic_ai) | Production agentic AI system for sprint intelligence -- deterministic workflows, AI analysis, web + mobile delivery | AWS Step Functions, React, SwiftUI |
-| [voice_clone](https://github.com/semperfitodd/voice_clone) | Real-time voice synthesis platform with Tortoise TTS, deployed on Kubernetes via ArgoCD | EKS, Flask, Terraform, ArgoCD |
-| [dreamcanvas](https://github.com/semperfitodd/dreamcanvas) | Self-hosted Stable Diffusion image generation pipeline on AWS | Docker, Terraform, Stable Diffusion |
-| [pen_test_agentic_ai](https://github.com/semperfitodd/pen_test_agentic_ai) | Penetration testing powered by agentic LLMs | Agentic AI, Security |
-| [personaplex](https://github.com/semperfitodd/personaplex) | Latest project (actively building) | Terraform, AWS |
-| [eks_cobol](https://github.com/semperfitodd/eks_cobol) | Containerized COBOL running on Kubernetes -- yes, really | EKS, Docker, COBOL |
-| [SkaldCraft](https://github.com/semperfitodd/SkaldCraft) | AI-powered interactive story generator | Swift, AI |
-| [2025_fitness](https://github.com/semperfitodd/2025_fitness) | Full-stack fitness tracker with React, iOS/watchOS, and Claude 3.5 AI integration | Swift, React, Terraform, Serverless |
+| [agentic_ai](https://github.com/semperfitodd/agentic_ai) | Application-led agentic AI reference architecture for governed sprint intelligence using deterministic workflows and constrained AI analysis | AWS Step Functions, React, SwiftUI |
+| [voice_clone](https://github.com/semperfitodd/voice_clone) | Self-hosted voice AI reference architecture on AWS with explicit consent, security, testing, and production-readiness boundaries | EKS, Flask, Terraform, ArgoCD |
+| [eks_cobol](https://github.com/semperfitodd/eks_cobol) | Reference architecture for extending COBOL workloads with containers, Kubernetes, event-driven processing, and machine learning | EKS, Docker, COBOL |
+| [pen_test_agentic_ai](https://github.com/semperfitodd/pen_test_agentic_ai) | Penetration testing reference architecture powered by agentic LLMs with authorization and safe-use boundaries | Agentic AI, Security |
 
-**[View all 52+ repos →](https://github.com/semperfitodd?tab=repositories)**
+**[View all repositories →](https://github.com/semperfitodd?tab=repositories)**
 
 ---
 
@@ -40,7 +38,7 @@ I lead AI and engineering at BSC Analytics, where I architect enterprise intelli
 Agentic AI &bull; LLM integration &bull; RAG &bull; MLOps &bull; SageMaker &bull; Bedrock &bull; Real-time inference &bull; Voice AI
 
 **Cloud**\
-AWS (all 12 certs) &bull; Azure &bull; GCP &bull; Serverless &bull; Multi-cloud architecture &bull; Cost optimization
+AWS &bull; Azure &bull; GCP &bull; Serverless &bull; Multi-cloud architecture &bull; Cost optimization
 
 **Infrastructure**\
 Terraform &bull; Kubernetes (EKS / AKS / GKE) &bull; Docker &bull; ArgoCD &bull; Helm &bull; GitHub Actions &bull; CI/CD
@@ -52,7 +50,7 @@ Python &bull; Go &bull; TypeScript &bull; Swift &bull; Bash &bull; HCL &bull; CO
 
 ### AWS Ambassador
 
-Three-time award winner with all 12 AWS certifications.
+Three-time AWS Ambassador Award recipient.
 
 | Year | Award |
 |------|-------|
@@ -60,7 +58,7 @@ Three-time award winner with all 12 AWS certifications.
 | 2023 | **Top Global Ambassador** |
 | 2022 | **#1 North America** |
 
-**30+ cloud certifications** across AWS, Azure, GCP, and Kubernetes.
+30+ certifications earned across AWS, Azure, GCP, Kubernetes, and related technologies
 
 ---
 
@@ -86,4 +84,4 @@ I speak at AWS Summits on AI, infrastructure modernization, and MLOps.
 
 ---
 
-<sub>Everything here? I built it. Still writing code every day.</sub>
+<sub>These repositories are reference implementations. Each priority repository states what is built, what is illustrative, what has been tested, and what remains to be validated before production use.</sub>

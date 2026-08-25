@@ -64,7 +64,7 @@ Three-time AWS Ambassador Award recipient.
 
 ### Speaking
 
-I speak at AWS Summits on AI, infrastructure modernization, and MLOps.
+I speak at AWS Ambassador Global Summit events on AI, infrastructure modernization, and MLOps.
 
 - **Real-Time AI Data Enrichment for Legacy Workloads in AWS**
 - **COBOL in the Cloud**

@@ -73,15 +73,4 @@ I speak at AWS Summits on AI, infrastructure modernization, and MLOps.
 
 ---
 
-### GitHub activity
-
-<p>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=semperfitodd&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=semperfitodd&hide_border=true" alt="GitHub streak" />
-</p>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=semperfitodd&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-
----
-
 <sub>These repositories are reference implementations. Each priority repository states what is built, what is illustrative, what has been tested, and what remains to be validated before production use.</sub>

@@ -1,6 +1,6 @@
 # Todd Bernson
 
-**Chief AI & Technical Officer** at [BSC Analytics](https://bscanalytics.com) | **AWS Ambassador** | United States Marine Corps Veteran
+**Chief AI Officer** at [BSC Analytics](https://bscanalytics.com) | **AWS Ambassador** | United States Marine Corps Veteran
 
 I lead governed enterprise AI and cloud platforms for regulated environments, and I publish selected reference architectures that demonstrate how I think about reliability, security, operations, and accountable execution.
 
